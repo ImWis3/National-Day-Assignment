@@ -1,0 +1,60 @@
+.imgp1
+{
+     
+    position: absolute; 
+    width: 100%; 
+    height: 63px; 
+    left: 0px; 
+    top: 0px; 
+    } 
+    .rcorners {
+        border-radius: 25px;
+        border: 2px solid #000000;
+        padding: 20px;
+        width: auto;
+        height: 40px;
+        background-color: honeydew;
+      }
+    .split {
+        height: 60px;
+        width: 70%;
+        top: 0;
+      
+      }
+      
+      .left {
+        left: 0;
+        float: left;
+        height: auto;
+        background-color: rgba(153, 143, 143, 0.89);
+      }
+      .right {
+        right: 0;
+        float: right;
+        width: 545px;
+        background-color: rgb(87, 255, 87);
+        height: auto;
+      }
+
+.image1 {
+    position: relative;
+    width: 30%;
+    height: 60px;
+    top: 12px;
+    left: 0;
+  }
+  .image2 {
+    position: absolute;
+    width: 70%; 
+    height: 60px; 
+    top: 140px;
+    left: 0px;
+  }
+  .centered {
+    position: absolute;
+    top: 15%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: rgb(189, 8, 8);
+  }
+  
